@@ -1,4 +1,4 @@
-# The Ultimate Python Project Template
+# My Project Template
 
 You can create your own version of this repository by clicking the `Use Template` option.
 
